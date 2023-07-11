@@ -26,7 +26,7 @@
 
     Thank you!
 
-# Relating Projects
+# Related Projects
 - Portal - A 3D maze puzzle
 - Maze Escape
 - Maze Runner
