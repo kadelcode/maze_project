@@ -2,6 +2,10 @@
 - Creating a 3D game with SDL2 library and Raycasting using C programming language
 ![3D game](https://github.com/kadelcode/maze_project/blob/main/images/maze.png?raw=true)
 
+# SDL2 Library & Raycasting
+- SDL(Simple DirectMedia Layer) library is a cross-platform development library designed to provide low level access to audio, keyboard, joystick, mouse and graphics hardware via OpenGL, Direct3D.
+- Raycasting is a simple technique used in computer graphics to render 3D scenes.
+
 # Installation
 - Clone the repo:
   ```git clone https://github.com/kadelcode/maze_project.git```
