@@ -3,7 +3,10 @@
 ![3D game](https://github.com/kadelcode/maze_project/blob/main/images/maze.png?raw=true)
 
 # Installation
-- git clone https://github.com/kadelcode/maze_project.git
+- Clone the repo:
+  ```git clone https://github.com/kadelcode/maze_project.git```
+- Install SDL Library:
+  ```sudo apt install libsdl2-dev```
 
 # Usage
 - Execute ./maze or type make run
